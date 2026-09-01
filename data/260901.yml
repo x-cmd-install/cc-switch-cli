@@ -1,0 +1,59 @@
+about:
+  description: ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+  license: MIT
+  homepage: 
+  head: 90a807b
+  archived: false
+  latestVersion: v5.10.4
+  collectedAt: 2026-09-01T04:58:41Z
+timeline:
+  created: 2025-11-23
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-30
+popularity:
+  star: 4921
+  watcher: 9
+  fork: 287
+  release: 65
+  contributor: 52
+  pullRequest: 53
+  issue: 285
+language:
+  Rust: 14242777
+  Python: 102130
+  Shell: 9449
+  Nix: 1738
+totalLine: 14356094
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 5
+    mergedPR: 7
+    openPR: 6
+    closedIssue: 14
+    openIssue: 5
+    commit: 32
+  last90d:
+    since: 2026-06-03
+    release: 17
+    mergedPR: 41
+    openPR: 16
+    closedIssue: 99
+    openIssue: 26
+    commit: 293
+  last180d:
+    since: 2026-03-05
+    release: 33
+    mergedPR: 81
+    openPR: 20
+    closedIssue: 210
+    openIssue: 42
+    commit: 584
+  last360d:
+    since: 2025-09-06
+    release: 65
+    mergedPR: 92
+    openPR: 20
+    closedIssue: 242
+    openIssue: 43
+    commit: 1218
