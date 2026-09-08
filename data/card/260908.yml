@@ -5,19 +5,19 @@ about:
   head: 8a5614d
   archived: false
   latestVersion: "v5.10.4"
-  collectedAt: 2026-09-08T02:03:20Z
+  collectedAt: 2026-09-08T04:46:07Z
 timeline:
   created: 2025-11-23
   lastCommit: 2026-09-05
   lastRelease: 2026-08-30
 popularity:
-  star: 4983
+  star: 4985
   watcher: 10
-  fork: 294
+  fork: 293
   release: 65
   contributor: 52
   pullRequest: 150
-  issue: 294
+  issue: 295
 language:
   Rust: 14316494
   Python: 102130
@@ -31,7 +31,7 @@ recent:
     mergedPR: 9
     openPR: 6
     closedIssue: 18
-    openIssue: 5
+    openIssue: 6
     commit: 31
   last60d:
     since: 2026-07-10
@@ -39,7 +39,7 @@ recent:
     mergedPR: 15
     openPR: 11
     closedIssue: 55
-    openIssue: 15
+    openIssue: 16
     commit: 111
   last90d:
     since: 2026-06-10
@@ -47,7 +47,7 @@ recent:
     mergedPR: 29
     openPR: 16
     closedIssue: 93
-    openIssue: 26
+    openIssue: 27
     commit: 284
   last180d:
     since: 2026-03-12
@@ -55,7 +55,7 @@ recent:
     mergedPR: 83
     openPR: 23
     closedIssue: 208
-    openIssue: 43
+    openIssue: 44
     commit: 557
   last360d:
     since: 2025-09-13
@@ -63,7 +63,7 @@ recent:
     mergedPR: 94
     openPR: 23
     closedIssue: 248
-    openIssue: 46
+    openIssue: 47
     commit: 1180
   last720d:
     since: 2024-09-18
@@ -71,18 +71,18 @@ recent:
     mergedPR: 94
     openPR: 23
     closedIssue: 248
-    openIssue: 46
+    openIssue: 47
     commit: 1474
 total:
   release: 65
   mergedPR: 94
   openPR: 23
   closedIssue: 248
-  openIssue: 46
+  openIssue: 47
   commit: 1474
 ---
 path: /home/runner/.x-repo/github.com/SaladDay/cc-switch-cli
-collectedAt: 2026-09-08T02:03:26Z
+collectedAt: 2026-09-08T04:46:12Z
 loc:
   Rust:
     code: 360258
