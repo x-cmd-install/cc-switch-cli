@@ -4,7 +4,7 @@
 
 ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
-![cc-switch-cli](https://repo.x-cmd.io/cc-switch-cli.svg)
+![cc-switch-cli](https://repo.x-cmd.io/cc-switch-cli.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,46 @@ x install cc-switch-cli
 - **最新版本**: `v5.10.4` (2026-08-30)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 19 个
-- **发布时间**: 2026-08-30T10:41:04Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cc-switch-cli-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
+| [cc-switch-cli-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-universal.tar.gz) | 15.9 MiB | `native/darwin/x64` |
+| [cc-switch-cli-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [cc-switch-cli-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-arm64-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [cc-switch-cli-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
+| [cc-switch-cli-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
+| [cc-switch-cli-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.4-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
+| [cc-switch-cli-v5.10.4-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-universal.tar.gz) | 15.9 MiB | `native/darwin/x64` |
+| [cc-switch-cli-v5.10.4-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [cc-switch-cli-v5.10.4-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-arm64-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [cc-switch-cli-v5.10.4-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
+| [cc-switch-cli-v5.10.4-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.4-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.4-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
+| [cc-switch-cli-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/checksums.txt) | 1.8 KiB | `other` |
+| [install.sh](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/install.sh) | 9.2 KiB | `other` |
+| [latest.json](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/latest.json) | 3.3 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 5,021 · **Fork**: 296 · **开放 issue**: 297 · **贡献者**: 52
+- **Star**: 5,029 · **Fork**: 297 · **开放 issue**: 298 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 94 · **开放 PR**: 25 · **已关闭 issue**: 248 · **开放 issue**: 49 · **提交数**: 1474
+- **发布数**: 65 · **已合并 PR**: 94 · **开放 PR**: 25 · **已关闭 issue**: 248 · **开放 issue**: 50 · **提交数**: 1474
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 9 | 8 | 16 | 8 | 31 |
-| 90d | 2026-06-12 | 14 | 27 | 17 | 88 | 29 | 284 |
-| 360d | 2025-09-15 | 65 | 94 | 25 | 248 | 49 | 1180 |
+| 30d | 2026-08-11 | 3 | 9 | 8 | 16 | 9 | 31 |
+| 90d | 2026-06-12 | 14 | 27 | 17 | 88 | 30 | 284 |
+| 360d | 2025-09-15 | 65 | 94 | 25 | 248 | 50 | 1180 |
 
 ## 代码规模
 
@@ -61,4 +84,4 @@ cc-switch-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:05Z._
