@@ -1,0 +1,61 @@
+- repo: homebrew
+  srcname: cc-switch-cli
+  visiblename: cc-switch-cli
+  version: 5.10.4
+  origversion: null
+  status: newest
+  summary: All-in-one assistant tool for Claude Code, Codex, Gemini, OpenCode and OpenClaw
+- repo: homebrew
+  srcname: cc-switch-cli
+  visiblename: cc-switch-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: All-in-one assistant tool for Claude Code, Codex, Gemini, OpenCode and OpenClaw
+- repo: aur
+  srcname: cc-switch-cli
+  binname: cc-switch-cli
+  visiblename: cc-switch-cli
+  version: 5.10.4
+  origversion: 5.10.4-1
+  status: newest
+  summary: Cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI
+  maintainers:
+    - czyt@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: cc-switch-cli-bin
+  binname: cc-switch-cli-bin
+  visiblename: cc-switch-cli-bin
+  version: 5.10.4
+  origversion: 5.10.4-2
+  status: newest
+  summary: Cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI
+  maintainers:
+    - felinae98@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: cc-switch-cli-git
+  binname: cc-switch-cli-git
+  visiblename: cc-switch-cli-git
+  version: 5.4.0.r3.g49b7142
+  origversion: 5.4.0.r3.g49b7142-1
+  status: rolling
+  summary: All-in-One Assistant for Claude Code, Codex, Gemini, OpenCode & OpenClaw
+  maintainers:
+    - csmantle@aur
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: cc-switch-cli
+  visiblename: cc-switch-cli
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  summary: Cross-platform CLI management tool for Claude Code, Codex, Gemini, and OpenCode
+  maintainers:
+    - bryanlais@gmail.com
+  licenses:
+    - MIT

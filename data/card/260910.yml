@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.10.4"
   latestRelease: "v5.10.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:36:55Z
+  collectedAt: 2026-09-10T21:47:15Z
 timeline:
   created: 2025-11-23
   lastCommit: 2026-09-05
@@ -86,7 +86,7 @@ total:
   commit: 1474
 ---
 path: /home/runner/.x-repo/github.com/SaladDay/cc-switch-cli
-collectedAt: 2026-09-10T16:37:00Z
+collectedAt: 2026-09-10T21:47:21Z
 loc:
   Rust:
     code: 360258
