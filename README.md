@@ -37,22 +37,22 @@ Total: **363,210** lines of code across **431** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,029 · **Forks**: 297 · **Open issues**: 298 · **Contributors**: 52
+- **Stars**: 5,031 · **Forks**: 298 · **Open issues**: 299 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 94 · **Open PRs**: 25 · **Closed issues**: 248 · **Open issues**: 50 · **Commits**: 1474
+- **Releases**: 65 · **Merged PRs**: 94 · **Open PRs**: 25 · **Closed issues**: 248 · **Open issues**: 51 · **Commits**: 1474
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 9 | 8 | 16 | 9 | 31 |
-| last60d | 2026-07-12 | 8 | 15 | 13 | 54 | 19 | 111 |
-| 90d | 2026-06-12 | 14 | 27 | 17 | 88 | 30 | 284 |
-| last180d | 2026-03-14 | 32 | 83 | 25 | 208 | 47 | 557 |
-| 360d | 2025-09-15 | 65 | 94 | 25 | 248 | 50 | 1180 |
-| last720d | 2024-09-20 | 65 | 94 | 25 | 248 | 50 | 1474 |
+| 30d | 2026-08-12 | 3 | 9 | 7 | 14 | 10 | 31 |
+| last60d | 2026-07-13 | 8 | 15 | 13 | 54 | 20 | 111 |
+| 90d | 2026-06-13 | 14 | 27 | 17 | 88 | 30 | 284 |
+| last180d | 2026-03-15 | 32 | 82 | 25 | 208 | 48 | 557 |
+| 360d | 2025-09-16 | 65 | 94 | 25 | 248 | 51 | 1180 |
+| last720d | 2024-09-21 | 65 | 94 | 25 | 248 | 51 | 1474 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:06:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:46:57Z._
