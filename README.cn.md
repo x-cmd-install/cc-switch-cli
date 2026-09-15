@@ -14,11 +14,11 @@ x install cc-switch-cli
 
 ## 代码洞察
 
-合计: **363,744** 行代码（覆盖前 5 种语言、共 **431** 个文件）。
+合计: **363,867** 行代码（覆盖前 5 种语言、共 **431** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 360,792 | 4,699 | 36,820 | 422 |
+| Rust | 360,915 | 4,712 | 36,828 | 422 |
 | Python | 2,385 | 15 | 304 | 4 |
 | Sh | 290 | 8 | 57 | 1 |
 | Toml | 121 | 9 | 13 | 2 |
@@ -31,52 +31,52 @@ x install cc-switch-cli
 
 ## 发布
 
-- **最新版本**: `v5.10.4` (2026-08-30)
-- **最近提交**: 2026-09-12
+- **最新版本**: `v5.10.5` (2026-09-15)
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 5,054 · **Fork**: 301 · **开放 issue**: 299 · **贡献者**: 52
+- **Star**: 5,067 · **Fork**: 301 · **开放 issue**: 302 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 96 · **开放 PR**: 26 · **已关闭 issue**: 255 · **开放 issue**: 44 · **提交数**: 1485
+- **发布数**: 66 · **已合并 PR**: 98 · **开放 PR**: 25 · **已关闭 issue**: 256 · **开放 issue**: 46 · **提交数**: 1488
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 11 | 8 | 20 | 2 | 35 |
-| last60d | 2026-07-16 | 7 | 17 | 13 | 50 | 10 | 90 |
-| 90d | 2026-06-16 | 14 | 29 | 18 | 93 | 23 | 275 |
-| last180d | 2026-03-18 | 31 | 84 | 26 | 211 | 41 | 535 |
-| 360d | 2025-09-19 | 65 | 96 | 26 | 255 | 44 | 1141 |
-| last720d | 2024-09-24 | 65 | 96 | 26 | 255 | 44 | 1485 |
+| 30d | 2026-08-16 | 4 | 13 | 7 | 21 | 4 | 38 |
+| last60d | 2026-07-17 | 8 | 19 | 12 | 51 | 12 | 93 |
+| 90d | 2026-06-17 | 15 | 30 | 17 | 93 | 25 | 278 |
+| last180d | 2026-03-19 | 32 | 86 | 25 | 211 | 43 | 538 |
+| 360d | 2025-09-20 | 66 | 98 | 25 | 256 | 46 | 1144 |
+| last720d | 2024-09-25 | 66 | 98 | 25 | 256 | 46 | 1488 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cc-switch-cli-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [cc-switch-cli-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-universal.tar.gz) | 15.9 MiB | `native/darwin/x64` |
-| [cc-switch-cli-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
-| [cc-switch-cli-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-arm64-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
-| [cc-switch-cli-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
-| [cc-switch-cli-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
-| [cc-switch-cli-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
-| [cc-switch-cli-v5.10.4-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [cc-switch-cli-v5.10.4-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-universal.tar.gz) | 15.9 MiB | `native/darwin/x64` |
-| [cc-switch-cli-v5.10.4-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
-| [cc-switch-cli-v5.10.4-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-arm64-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
-| [cc-switch-cli-v5.10.4-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
-| [cc-switch-cli-v5.10.4-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
-| [cc-switch-cli-v5.10.4-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
-| [cc-switch-cli-v5.10.4-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-v5.10.4-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
-| [cc-switch-cli-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/cc-switch-cli-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
-| [checksums.txt](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/checksums.txt) | 1.8 KiB | `other` |
-| [install.sh](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/install.sh) | 9.2 KiB | `other` |
-| [latest.json](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.4/latest.json) | 3.3 KiB | `other` |
+| [cc-switch-cli-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-darwin-arm64.tar.gz) | 7.7 MiB | `native/darwin/arm64` |
+| [cc-switch-cli-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-darwin-universal.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [cc-switch-cli-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [cc-switch-cli-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-linux-arm64-musl.tar.gz) | 7.5 MiB | `native/linux/arm64/musl` |
+| [cc-switch-cli-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-linux-arm64.tar.gz) | 7.6 MiB | `native/linux/arm64` |
+| [cc-switch-cli-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
+| [cc-switch-cli-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.5-darwin-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-darwin-arm64.tar.gz) | 7.7 MiB | `native/darwin/arm64` |
+| [cc-switch-cli-v5.10.5-darwin-universal.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-darwin-universal.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [cc-switch-cli-v5.10.5-darwin-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-darwin-x64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [cc-switch-cli-v5.10.5-linux-arm64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-linux-arm64-musl.tar.gz) | 7.5 MiB | `native/linux/arm64/musl` |
+| [cc-switch-cli-v5.10.5-linux-arm64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-linux-arm64.tar.gz) | 7.6 MiB | `native/linux/arm64` |
+| [cc-switch-cli-v5.10.5-linux-x64-musl.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-linux-x64-musl.tar.gz) | 8.3 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.5-linux-x64.tar.gz](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-linux-x64.tar.gz) | 8.0 MiB | `native/unknown` |
+| [cc-switch-cli-v5.10.5-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-v5.10.5-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
+| [cc-switch-cli-windows-x64.zip](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/cc-switch-cli-windows-x64.zip) | 7.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/checksums.txt) | 1.8 KiB | `other` |
+| [install.sh](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/install.sh) | 9.2 KiB | `other` |
+| [latest.json](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.10.5/latest.json) | 3.3 KiB | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ cc-switch-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:04:37Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:23:23Z._
