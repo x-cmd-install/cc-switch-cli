@@ -14,11 +14,11 @@ x install cc-switch-cli
 
 ## Code insight
 
-Total: **363,867** lines of code across **431** files in the top 5 languages.
+Total: **363,868** lines of code across **431** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 360,915 | 4,712 | 36,828 | 422 |
+| Rust | 360,916 | 4,715 | 36,828 | 422 |
 | Python | 2,385 | 15 | 304 | 4 |
 | Sh | 290 | 8 | 57 | 1 |
 | Toml | 121 | 9 | 13 | 2 |
@@ -32,27 +32,27 @@ Total: **363,867** lines of code across **431** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.10.5` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 5,105 · **Forks**: 304 · **Open issues**: 305 · **Contributors**: 54
+- **Stars**: 5,110 · **Forks**: 305 · **Open issues**: 307 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 99 · **Open PRs**: 27 · **Closed issues**: 256 · **Open issues**: 49 · **Commits**: 1489
+- **Releases**: 66 · **Merged PRs**: 100 · **Open PRs**: 27 · **Closed issues**: 256 · **Open issues**: 51 · **Commits**: 1490
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 4 | 14 | 9 | 21 | 6 | 39 |
-| last60d | 2026-07-19 | 7 | 19 | 14 | 50 | 15 | 94 |
-| 90d | 2026-06-19 | 13 | 30 | 19 | 93 | 27 | 279 |
-| last180d | 2026-03-21 | 30 | 85 | 27 | 209 | 46 | 539 |
-| 360d | 2025-09-22 | 66 | 99 | 27 | 256 | 49 | 1145 |
-| last720d | 2024-09-27 | 66 | 99 | 27 | 256 | 49 | 1489 |
+| 30d | 2026-08-19 | 3 | 15 | 7 | 20 | 8 | 40 |
+| last60d | 2026-07-20 | 7 | 18 | 14 | 50 | 17 | 95 |
+| 90d | 2026-06-20 | 13 | 31 | 19 | 92 | 29 | 280 |
+| last180d | 2026-03-22 | 30 | 86 | 27 | 208 | 48 | 540 |
+| 360d | 2025-09-23 | 66 | 100 | 27 | 256 | 51 | 1146 |
+| last720d | 2024-09-28 | 66 | 100 | 27 | 256 | 51 | 1490 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:06:16Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:24Z._
