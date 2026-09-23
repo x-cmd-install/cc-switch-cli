@@ -4,7 +4,7 @@
 
 ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
-[![x-cmd/install — cc-switch-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-switch-cli.svg?lang=zh)](https://x-cmd.com/install/cc-switch-cli)
+[![x-cmd/install — cc-switch-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cc-switch-cli.svg?lang=zh)](https://x-cmd.com/install/cc-switch-cli)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install cc-switch-cli
 
 ## 流行度
 
-- **Star**: 5,143 · **Fork**: 305 · **开放 issue**: 308 · **贡献者**: 54
+- **Star**: 5,157 · **Fork**: 306 · **开放 issue**: 308 · **贡献者**: 54
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cc-switch-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 11 | 8 | 15 | 9 | 17 |
-| last60d | 2026-07-24 | 7 | 18 | 15 | 43 | 18 | 77 |
-| 90d | 2026-06-24 | 13 | 26 | 18 | 85 | 30 | 256 |
-| last180d | 2026-03-26 | 28 | 84 | 28 | 205 | 49 | 506 |
-| 360d | 2025-09-27 | 66 | 100 | 28 | 256 | 52 | 1129 |
-| last720d | 2024-10-02 | 66 | 100 | 28 | 256 | 52 | 1490 |
+| 30d | 2026-08-24 | 3 | 9 | 8 | 15 | 9 | 17 |
+| last60d | 2026-07-25 | 6 | 18 | 15 | 41 | 16 | 77 |
+| 90d | 2026-06-25 | 13 | 26 | 18 | 82 | 30 | 256 |
+| last180d | 2026-03-27 | 28 | 84 | 28 | 203 | 49 | 506 |
+| 360d | 2025-09-28 | 66 | 100 | 28 | 256 | 52 | 1129 |
+| last720d | 2024-10-03 | 66 | 100 | 28 | 256 | 52 | 1490 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ cc-switch-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:01:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:02:22Z._
