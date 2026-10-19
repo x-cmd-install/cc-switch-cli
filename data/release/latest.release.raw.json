@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8269776,
       "digest": "sha256:268444785288ef9444c3ad7adbaea8a515465a12a7b959ab0096370f98d5f589",
-      "download_count": 18,
+      "download_count": 28,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17246260,
       "digest": "sha256:8f4a1fe489226a18e276241a44dc93041b93f393f8a87874fc6c680222388326",
-      "download_count": 16,
+      "download_count": 27,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-darwin-universal.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8975391,
       "digest": "sha256:b6b41691a587da5d7954e53ee77faa1a109f631932a307032391f274fc8c650f",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-darwin-x64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8032179,
       "digest": "sha256:d05995c7ef58196cd65dd4d5579ceb4405bdee4d0f68c8ef58722b9ff50c3a12",
-      "download_count": 57,
+      "download_count": 98,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-linux-arm64-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8128712,
       "digest": "sha256:eacbcf4ee05c1737d71b3b7c6b2d7c5819c5f19523926839ef4344c9e6a85204",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8920703,
       "digest": "sha256:bb0255e37894c47f0bea721605c2f02ac7a69d699011bb1636db751e175d2baa",
-      "download_count": 462,
+      "download_count": 788,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-linux-x64-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8627650,
       "digest": "sha256:1d623ea8bc7d71f1d8cf796c827c20c8204f44c2c78ffca5c50606a2f53dc4bc",
-      "download_count": 46,
+      "download_count": 76,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8269776,
       "digest": "sha256:268444785288ef9444c3ad7adbaea8a515465a12a7b959ab0096370f98d5f589",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-darwin-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17246260,
       "digest": "sha256:8f4a1fe489226a18e276241a44dc93041b93f393f8a87874fc6c680222388326",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-darwin-universal.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8975391,
       "digest": "sha256:b6b41691a587da5d7954e53ee77faa1a109f631932a307032391f274fc8c650f",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-darwin-x64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8032179,
       "digest": "sha256:d05995c7ef58196cd65dd4d5579ceb4405bdee4d0f68c8ef58722b9ff50c3a12",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-linux-arm64-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 8128712,
       "digest": "sha256:eacbcf4ee05c1737d71b3b7c6b2d7c5819c5f19523926839ef4344c9e6a85204",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-linux-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8920703,
       "digest": "sha256:bb0255e37894c47f0bea721605c2f02ac7a69d699011bb1636db751e175d2baa",
-      "download_count": 16,
+      "download_count": 28,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-linux-x64-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 8627650,
       "digest": "sha256:1d623ea8bc7d71f1d8cf796c827c20c8204f44c2c78ffca5c50606a2f53dc4bc",
-      "download_count": 8,
+      "download_count": 15,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-linux-x64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7849464,
       "digest": "sha256:b588f973b4a1073c18deba3c1b4a3860737a4058923fc95a7630832bee7e2ad2",
-      "download_count": 14,
+      "download_count": 24,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:49Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-v5.11.2-windows-x64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 7849464,
       "digest": "sha256:b588f973b4a1073c18deba3c1b4a3860737a4058923fc95a7630832bee7e2ad2",
-      "download_count": 31,
+      "download_count": 40,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:50Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/cc-switch-cli-windows-x64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1819,
       "digest": "sha256:d271ed19d2f66dd0fb69d370014bcde382b320a69cf8f06dfd7c299be599d186",
-      "download_count": 39,
+      "download_count": 75,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:49Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/checksums.txt"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 9449,
       "digest": "sha256:5036498ce7580d3c2aeb3353374a93f5266d2eeae55772ebf78425e0c51a5266",
-      "download_count": 234,
+      "download_count": 403,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:49Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/install.sh"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3376,
       "digest": "sha256:66d2a0716e519a8172987bc2615d39f1fa10f80c0d8ed5bdc28623997a968862",
-      "download_count": 283,
+      "download_count": 496,
       "created_at": "2026-10-16T13:51:48Z",
       "updated_at": "2026-10-16T13:51:49Z",
       "browser_download_url": "https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.2/latest.json"
