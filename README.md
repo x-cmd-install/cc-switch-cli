@@ -14,11 +14,11 @@ x install cc-switch-cli
 
 ## Code insight
 
-Total: **378,967** lines of code across **456** files in the top 5 languages.
+Total: **379,134** lines of code across **456** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 375,700 | 5,081 | 37,699 | 445 |
+| Rust | 375,867 | 5,090 | 37,716 | 445 |
 | Python | 2,385 | 15 | 304 | 4 |
 | Json | 391 | 0 | 0 | 4 |
 | Sh | 290 | 8 | 57 | 1 |
@@ -37,22 +37,22 @@ Total: **378,967** lines of code across **456** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,440 · **Forks**: 336 · **Open issues**: 338 · **Contributors**: 62
+- **Stars**: 5,443 · **Forks**: 336 · **Open issues**: 339 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 134 · **Open PRs**: 26 · **Closed issues**: 276 · **Open issues**: 62 · **Commits**: 1529
+- **Releases**: 70 · **Merged PRs**: 136 · **Open PRs**: 26 · **Closed issues**: 281 · **Open issues**: 58 · **Commits**: 1531
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 29 | 6 | 11 | 13 | 23 |
-| last60d | 2026-09-06 | 5 | 39 | 6 | 28 | 18 | 48 |
-| 90d | 2026-08-07 | 8 | 49 | 9 | 48 | 23 | 84 |
-| last180d | 2026-05-09 | 26 | 101 | 23 | 162 | 50 | 478 |
-| 360d | 2025-11-10 | 70 | 134 | 26 | 276 | 62 | 892 |
-| last720d | 2024-11-15 | 70 | 134 | 26 | 276 | 62 | 1529 |
+| 30d | 2026-10-07 | 4 | 22 | 6 | 15 | 9 | 25 |
+| last60d | 2026-09-07 | 5 | 41 | 6 | 31 | 14 | 50 |
+| 90d | 2026-08-08 | 8 | 51 | 9 | 51 | 17 | 86 |
+| last180d | 2026-05-10 | 26 | 103 | 23 | 167 | 46 | 480 |
+| 360d | 2025-11-11 | 70 | 136 | 26 | 281 | 58 | 894 |
+| last720d | 2024-11-16 | 70 | 136 | 26 | 281 | 58 | 1531 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:52:40Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:49:17Z._
