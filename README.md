@@ -37,7 +37,7 @@ Total: **379,742** lines of code across **458** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,549 · **Forks**: 382 · **Open issues**: 348 · **Contributors**: 63
+- **Stars**: 5,555 · **Forks**: 382 · **Open issues**: 348 · **Contributors**: 63
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **379,742** lines of code across **458** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 13 | 8 | 13 | 7 | 20 |
-| last60d | 2026-09-22 | 5 | 39 | 12 | 26 | 14 | 47 |
-| 90d | 2026-08-23 | 8 | 53 | 12 | 46 | 18 | 80 |
-| last180d | 2026-05-25 | 24 | 101 | 29 | 158 | 46 | 453 |
-| 360d | 2025-11-26 | 67 | 142 | 32 | 285 | 61 | 789 |
-| last720d | 2024-12-01 | 71 | 142 | 32 | 287 | 61 | 1539 |
+| 30d | 2026-10-23 | 1 | 13 | 8 | 12 | 6 | 20 |
+| last60d | 2026-09-23 | 5 | 39 | 12 | 25 | 14 | 47 |
+| 90d | 2026-08-24 | 8 | 51 | 12 | 46 | 18 | 80 |
+| last180d | 2026-05-26 | 24 | 100 | 29 | 156 | 46 | 453 |
+| 360d | 2025-11-27 | 67 | 142 | 32 | 285 | 61 | 789 |
+| last720d | 2024-12-02 | 71 | 142 | 32 | 287 | 61 | 1539 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Reported by **6** distros on [repology.org](https://repology.org/project/cc-swit
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `5.11.4` | ✅ latest |
-| Nix unstable | `5.10.5` | ⚠️ outdated |
+| Nix unstable | `5.11.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:43:42Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:54:05Z._
