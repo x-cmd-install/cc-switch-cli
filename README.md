@@ -37,7 +37,7 @@ Total: **380,255** lines of code across **458** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,578 · **Forks**: 385 · **Open issues**: 350 · **Contributors**: 65
+- **Stars**: 5,583 · **Forks**: 385 · **Open issues**: 350 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **380,255** lines of code across **458** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 17 | 8 | 16 | 2 | 23 |
-| last60d | 2026-09-26 | 5 | 46 | 12 | 30 | 10 | 55 |
-| 90d | 2026-08-27 | 7 | 57 | 12 | 52 | 14 | 70 |
-| last180d | 2026-05-29 | 23 | 103 | 28 | 158 | 42 | 435 |
-| 360d | 2025-11-30 | 67 | 149 | 31 | 292 | 56 | 796 |
-| last720d | 2024-12-05 | 71 | 149 | 31 | 294 | 56 | 1547 |
+| 30d | 2026-10-27 | 1 | 17 | 8 | 15 | 2 | 23 |
+| last60d | 2026-09-27 | 5 | 46 | 12 | 30 | 10 | 55 |
+| 90d | 2026-08-28 | 7 | 57 | 12 | 52 | 14 | 70 |
+| last180d | 2026-05-30 | 23 | 102 | 28 | 157 | 42 | 435 |
+| 360d | 2025-12-01 | 67 | 149 | 31 | 292 | 56 | 796 |
+| last720d | 2024-12-06 | 71 | 149 | 31 | 294 | 56 | 1547 |
 
 ## Release assets
 
@@ -78,6 +78,15 @@ Total: **380,255** lines of code across **458** files in the top 5 languages.
 | [install.sh](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.4/install.sh) | 9.2 KiB | `other` |
 | [latest.json](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.4/latest.json) | 3.3 KiB | `other` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/cc-switch-cli). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `5.11.4` | ✅ latest |
+| Nix unstable | `5.11.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cc-switch-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +96,4 @@ Install metadata for cc-switch-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:39:17Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:14:20Z._
