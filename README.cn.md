@@ -37,22 +37,22 @@ x install cc-switch-cli
 
 ## 流行度
 
-- **Star**: 5,591 · **Fork**: 384 · **开放 issue**: 350 · **贡献者**: 65
+- **Star**: 5,597 · **Fork**: 384 · **开放 issue**: 350 · **贡献者**: 65
 
 ## 累计统计
 
-- **发布数**: 71 · **已合并 PR**: 149 · **开放 PR**: 31 · **已关闭 issue**: 295 · **开放 issue**: 55 · **提交数**: 1547
+- **发布数**: 71 · **已合并 PR**: 149 · **开放 PR**: 32 · **已关闭 issue**: 295 · **开放 issue**: 55 · **提交数**: 1547
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 17 | 8 | 14 | 2 | 23 |
-| last60d | 2026-09-28 | 5 | 46 | 12 | 30 | 10 | 55 |
-| 90d | 2026-08-29 | 7 | 57 | 12 | 52 | 14 | 70 |
-| last180d | 2026-05-31 | 23 | 101 | 28 | 157 | 40 | 435 |
-| 360d | 2025-12-02 | 67 | 149 | 31 | 293 | 55 | 796 |
-| last720d | 2024-12-07 | 71 | 149 | 31 | 295 | 55 | 1547 |
+| 30d | 2026-10-29 | 1 | 17 | 8 | 12 | 1 | 23 |
+| last60d | 2026-09-29 | 5 | 45 | 13 | 30 | 10 | 55 |
+| 90d | 2026-08-30 | 7 | 57 | 13 | 51 | 14 | 70 |
+| last180d | 2026-06-01 | 23 | 99 | 29 | 152 | 40 | 435 |
+| 360d | 2025-12-03 | 67 | 149 | 32 | 293 | 55 | 796 |
+| last720d | 2024-12-08 | 71 | 149 | 32 | 295 | 55 | 1547 |
 
 ## Release 资产
 
@@ -78,15 +78,6 @@ x install cc-switch-cli
 | [install.sh](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.4/install.sh) | 9.2 KiB | `other` |
 | [latest.json](https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.4/latest.json) | 3.3 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cc-switch-cli) 上共有 **6** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `5.11.4` | ✅ latest |
-| Nix unstable | `5.11.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 cc-switch-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cc-switch-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -96,4 +87,4 @@ cc-switch-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:11:22Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:00:33Z._
